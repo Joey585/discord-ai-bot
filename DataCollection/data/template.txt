@@ -1,0 +1,13 @@
+[CONVERSATION START]
+[user1]: anyone heard of the movie "The Stronghold"? It's from Israel or something
+[user2]: yea i saw it at this film festival, very fun
+    - [replyingTo|user1]: anyone heard of the movie "The Stronghold"? It's from Israel or something
+[EVENT|REACTION]: user1 reacted to user2 "yea i saw it at this film festival, very fun" with 📣
+[user3]: how fun guys :D
+[CONVERSATION END]
+
+[CONVERSATION START]
+[user4]: man i have to go to the bathroom so bad
+[user5]: then go
+    - [replyingTo|user4]: man i have to go to the bathroom so bad
+[CONVERSATION END]
